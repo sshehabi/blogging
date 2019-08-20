@@ -1,0 +1,22 @@
+.column {
+  width: 300px;
+  float: left;
+  text-align: center;
+}
+
+h1 {
+  color:red;
+  float: center;
+  text-align: left;
+}
+
+.cool {
+  color: green;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: aquamarine;
+}
+
